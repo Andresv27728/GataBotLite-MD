@@ -14,7 +14,7 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
 ['573133374132', 'TIBURON', true], 
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
+['573132977104', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
 ['573012482597'],
 ['5218715746374'],
 ['5492266613038'], 
