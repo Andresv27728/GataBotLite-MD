@@ -13,7 +13,7 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
+['573133374132', 'TIBURON', true], 
 ['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
 ['573012482597'],
 ['5218715746374'],
@@ -86,10 +86,10 @@ global.policyGB = 'github.com/GataNina-Li/GataBot-MD/blob/master/terms.md'
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['593968263524', 'Gata Dios 💻', 1], 
-['573147616444', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['5214434703586', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['573133374132', 'Gata Dios 💻', 1], 
+['573133374132', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['573133374132', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['573133374132', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -193,7 +193,7 @@ global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17
 global.gataImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13]
 global.accountsgb = [canal1, canal2, canal3, canal4, canal5, tk, ig, yt, paypal, fb, ths, md, asistencia, tg]
 
-global.multiplier = 60 // Cuanto más alto, más difícil subir de nivel
+global.multiplier = 100 // Cuanto más alto, más difícil subir de nivel
 
 // IDs de canales
 global.ch = {
