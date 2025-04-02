@@ -9,7 +9,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 
 let chat = global.db.data.chats[m.chat] 
 if (!m.messageStubType || !m.isGroup || !chat.detect) return
-  
+
 let pp = await conn.profilePictureUrl(m.messageStubParameters[0], 'image').catch(_ => gataMenu.getRandom()) || null
 let usuario = `@${m.sender.split`@`[0]}`
 let inf = lenguajeGB['smsAvisoIIG']()
